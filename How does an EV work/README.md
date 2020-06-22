@@ -1,4 +1,3 @@
-# WEEK 1
 ## How does an EV work
 
             Comparison electric vehicles and internal combustion engine vehicles
